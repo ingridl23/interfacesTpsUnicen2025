@@ -33,5 +33,18 @@ Este trabajo práctico consiste en el desarrollo de una aplicación web utilizan
 
 
 
-## 📁 Estructura del proyecto
+
+---
+
+## ▶️ Instrucciones para ejecutar
+
+1. Descargar el archivo zip o clonar este repositorio  con el contenido del proyecto.
+2. Extraerlo en una carpeta local.
+3. Abrir el archivo `index.html` en un navegador web moderno (Chrome, Firefox, etc).
+4. Seguir las instrucciones visibles en pantalla para interactuar con las figuras.
+
+---
+
+
+
 
